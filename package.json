@@ -1,7 +1,7 @@
 {
-  "name": "rollup-plugin-node-resolve",
+  "name": "@mixmaxhq/rollup-plugin-node-resolve",
   "description": "Bundle third-party dependencies in node_modules",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "devDependencies": {
     "buble": "^0.19.3",
     "es5-ext": "^0.10.39",
@@ -34,7 +34,7 @@
     "is-module": "^1.0.0",
     "resolve": "^1.1.6"
   },
-  "repository": "rollup/rollup-plugin-node-resolve",
+  "repository": "mixmaxhq/rollup-plugin-node-resolve",
   "keywords": [
     "rollup",
     "rollup-plugin",
